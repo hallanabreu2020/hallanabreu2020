@@ -1,4 +1,4 @@
-## Olá eu sou Hallan Abreu, focado em Flutter e Dart!
+## Olá, Me chamo Hallan Abreu, focado em Flutter e Dart!
 <div align="center">
   <a href="https://github.com/hallanabreu2020">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hallanabreu2020&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
