@@ -5,7 +5,7 @@
     <img height="200em" src="https://kiraz.biz/public/uploads/news-3.png"/>   
 </div>
   
-  <div>
+<div>
   <a href="https://github.com/hallanabreu2020">
     <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hallanabreu2020&layout=compact&theme=radical" />
     <img height="170em" src="https://github-readme-stats.vercel.app/api?username=hallanabreu2020&show_icons=true&theme=radical" />
