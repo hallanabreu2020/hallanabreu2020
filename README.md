@@ -3,7 +3,7 @@
   <a href="https://hallanabreu.com.br/">
     <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hallanabreu2020&layout=compact&theme=radical" />
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=hallanabreu2020&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://cdn.discordapp.com/attachments/954877430152183839/997919195671036026/Frame_1.png"/>      
+  <img height="600em" src="https://cdn.discordapp.com/attachments/954877430152183839/997919195671036026/Frame_1.png"/>      
    </a>
 </div>  
   
