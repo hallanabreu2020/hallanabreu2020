@@ -4,6 +4,7 @@
     <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hallanabreu2020&layout=compact&theme=radical" />
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=hallanabreu2020&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://kiraz.biz/public/uploads/news-3.png"/>     
+  <img height="150em" src="https://cdn.discordapp.com/attachments/956684539672023140/994577638758813756/unknown.png"/>  
    </a>
 </div>  
   
